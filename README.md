@@ -6,6 +6,7 @@ This repository contains a complete and structured analysis of user reviews for 
 
 ## 📁 Repository Structure
 
+```plaintext
 Eth-Bank-Apps-Sentiment-Analysis/
 ├── scripts/
 │ ├── review_scraper.py
@@ -31,6 +32,7 @@ Eth-Bank-Apps-Sentiment-Analysis/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ---
 
